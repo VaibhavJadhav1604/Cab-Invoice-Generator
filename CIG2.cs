@@ -39,9 +39,7 @@ namespace CIG2
     {
         static void Main(string[] args)
         {
-            ride r = new ride();
-            multiplerides[] mr = { new multiplerides(20, 10), new multiplerides(10, 20) };
-            double total=r.calculatefare(mr);
+
         }
     }
 }
